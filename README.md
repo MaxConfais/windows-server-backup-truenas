@@ -1,3 +1,6 @@
+![Project](https://img.shields.io/badge/Project-Windows%20Server%20Backup-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Environment](https://img.shields.io/badge/Environment-Virtualized-orange)
 # Windows Server Backup vers TrueNAS CORE
 
 ## Présentation
