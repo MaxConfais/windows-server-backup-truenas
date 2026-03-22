@@ -32,6 +32,14 @@ L’objectif était de stocker une sauvegarde complète du serveur Windows sur u
 - **Système de fichiers côté NAS** : ZFS
 - **Compression** : LZ4
 
+## Stack technique
+- Windows Server 2019
+- TrueNAS CORE
+- SMB / CIFS
+- ZFS
+- Oracle VirtualBox
+- Windows Server Backup
+
 ---
 
 ## Architecture du projet
